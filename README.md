@@ -13,7 +13,10 @@ PyroNear aims at offering an wildfire early detection system with state-of-the-a
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+<<<<<<< refs/remotes/frgfm/master
 * [References](#references)
+=======
+>>>>>>> Added package documentation (#7)
 * [Documentation](#documentation)
 * [Contributing](#contributing)
 * [Credits](#credits)
@@ -67,6 +70,12 @@ python references/classification/fastai/train.py --data-path ./data --lr 3e-3 --
 ```
 
 *Please note that most tasks are provided with two training scripts (and their `requirements.txt`): one using [fastai](https://github.com/fastai/fastai) and the other without it.*
+
+
+
+## Documentation
+
+The full package documentation is available [here](<https://frgfm.github.io/PyroNear/>) for detailed specifications. The documentation was built with [Sphinx](sphinx-doc.org) using a [theme](github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](readthedocs.org).
 
 
 
