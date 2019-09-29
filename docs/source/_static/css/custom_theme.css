@@ -1,3 +1,4 @@
+<<<<<<< refs/remotes/frgfm/master
 h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend, p.caption {
     font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-weight: normal;
@@ -11,6 +12,16 @@ h1 {
 body {
     font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     background: #fff;
+=======
+body {
+    font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    background: #fff;
+}
+
+
+h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend, p.caption {
+    font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+>>>>>>> Added package documentation (#7)
 }
 
 /* Use white for docs background */
@@ -118,7 +129,11 @@ a {
 
 /* Use our red for literals (it's very similar to the original color) */
 .rst-content tt.literal, .rst-content tt.literal, .rst-content code.literal {
+<<<<<<< refs/remotes/frgfm/master
     color: #B91444;
+=======
+    color: #F05732;
+>>>>>>> Added package documentation (#7)
 }
 
 .rst-content tt.xref, a .rst-content tt, .rst-content tt.xref,
