@@ -31,10 +31,7 @@ PyroNear aims at offering an wildfire early detection system with state-of-the-a
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-<<<<<<< refs/remotes/frgfm/master
 * [References](#references)
-=======
->>>>>>> Added package documentation (#7)
 * [Documentation](#documentation)
 * [Contributing](#contributing)
 * [Credits](#credits)
