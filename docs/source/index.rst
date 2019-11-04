@@ -15,8 +15,7 @@ for wildfire detection tasks.
 
 <<<<<<< refs/remotes/frgfm/master
    datasets
-   models
-   nn
+>>>>>>> Added package documentation (#7)
    utils
 
 
